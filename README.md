@@ -1,2 +1,2 @@
 # snake-JAVA
-snake made with Java.
+Snake made with Java.
